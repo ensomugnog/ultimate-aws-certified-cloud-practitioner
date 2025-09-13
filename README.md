@@ -64,6 +64,8 @@ Full Practice Exam included + explanations | Learn Cloud Computing | Pass the AW
 
 - 10 - AWS CLI Setup on Linux
 
+- 11 - AWS CLI Hands On
+
 ## Repository configuration
 Each submodule in this repository contains the code examples of the original course.
 
