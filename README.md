@@ -90,6 +90,8 @@ Full Practice Exam included + explanations | Learn Cloud Computing | Pass the AW
 
 - 02 - EC2 Basics
 
+- 03 - Create an EC2 Instance with EC2 User Data to have a Website Hands On [ [uaccp-create-an-ec2-instance-with-ec2-user-data-to-have-a-website-hands-on](https://github.com/ensomugnog/uaccp-create-an-ec2-instance-with-ec2-user-data-to-have-a-website-hands-on) -> [5f79f2ee927ef5b732adec4f467aeb8a3c93f1b1](https://github.com/ensomugnog/uaccp-create-an-ec2-instance-with-ec2-user-data-to-have-a-website-hands-on/commit/5f79f2ee927ef5b732adec4f467aeb8a3c93f1b1) ]
+
 ## Repository configuration
 Each submodule in this repository contains the code examples of the original course.
 
@@ -97,11 +99,11 @@ Each submodule in this repository contains the code examples of the original cou
 Create a new repository on Github, then execute the following commands to link the new repository as a submodule of the main repository:
 
 ```
-$ cd uaccp
-$ git submodule add -b master git@github.com:ensomugnog/uaccp-submodule uaccp-submodule
+$ cd ultimate-aws-certified-cloud-practitioner
+$ git submodule add -b main git@github.com:ensomugnog/uaccp-create-an-ec2-instance-with-ec2-user-data-to-have-a-website-hands-on
 ```
 
-Using the **-b** argument means we want to follow the master branch of the new repository, and after running this command we’ll have a new directory named `uaccp-submodule/`, this directory will automaticaly checkout the master branch for you to be ready to make changes.
+Using the **-b** argument means we want to follow the main branch of the new repository, and after running this command we’ll have a new directory named `uaccp-submodule/`, this directory will automaticaly checkout the main branch for you to be ready to make changes.
 
 ### Update main repository with latest submodule changes
 First make sure the submodule changes have been commited and pushed to the orign repository, then run the following commands:
@@ -135,5 +137,5 @@ To checkout a Git commit, you will need the commit hash.
 ```
 $ git checkout 4aa03973d004286558465a8d86bcccfdc7b46505
 $ git reset --hard
-$ git checkout master
+$ git checkout main
 ```

@@ -1,0 +1,4 @@
+[submodule "uaccp-create-an-ec2-instance-with-ec2-user-data-to-have-a-website-hands-on"]
+	path = uaccp-create-an-ec2-instance-with-ec2-user-data-to-have-a-website-hands-on
+	url = git@github.com:ensomugnog/uaccp-create-an-ec2-instance-with-ec2-user-data-to-have-a-website-hands-on
+	branch = main
