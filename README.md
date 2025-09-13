@@ -55,7 +55,9 @@ Full Practice Exam included + explanations | Learn Cloud Computing | Pass the AW
 - 05 - IAM MFA Overview
 
 - 06 - IAM MFA Hands On
-  
+
+- 07 - AWS Access Keys, CLI and SDK
+
 ## Repository configuration
 Each submodule in this repository contains the code examples of the original course.
 
