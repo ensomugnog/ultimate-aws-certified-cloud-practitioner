@@ -24,6 +24,8 @@ Full Practice Exam included + explanations | Learn Cloud Computing | Pass the AW
 
 03 - What is Cloud Computing
 
+- 01 - Traditional IT Overview
+
 ## Repository configuration
 Each submodule in this repository contains the code examples of the original course.
 
