@@ -72,6 +72,8 @@ Full Practice Exam included + explanations | Learn Cloud Computing | Pass the AW
 
 - 14 - IAM Roles Hands On
 
+- 15 - IAM Security Tools
+
 ## Repository configuration
 Each submodule in this repository contains the code examples of the original course.
 
