@@ -30,6 +30,8 @@ Full Practice Exam included + explanations | Learn Cloud Computing | Pass the AW
 
 - 03 - The Different Types of Cloud Computing
 
+- 04 - AWS Cloud Overview
+
 ## Repository configuration
 Each submodule in this repository contains the code examples of the original course.
 
