@@ -42,6 +42,8 @@ Full Practice Exam included + explanations | Learn Cloud Computing | Pass the AW
 
 - 09.1 - What is Cloud Computing Quiz
 
+04 - IAM - Identity and Access Management
+
 ## Repository configuration
 Each submodule in this repository contains the code examples of the original course.
 
