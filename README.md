@@ -78,6 +78,8 @@ Full Practice Exam included + explanations | Learn Cloud Computing | Pass the AW
 
 - 17 - IAM Best Practices
 
+- 18 - Shared Responsibility Model for IAM
+
 ## Repository configuration
 Each submodule in this repository contains the code examples of the original course.
 
