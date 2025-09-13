@@ -44,6 +44,8 @@ Full Practice Exam included + explanations | Learn Cloud Computing | Pass the AW
 
 04 - IAM - Identity and Access Management
 
+- 01 - IAM Introduction Users, Groups, Policies
+
 ## Repository configuration
 Each submodule in this repository contains the code examples of the original course.
 
