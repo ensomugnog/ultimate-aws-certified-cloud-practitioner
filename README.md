@@ -48,6 +48,8 @@ Full Practice Exam included + explanations | Learn Cloud Computing | Pass the AW
 
 - 02 - IAM Users & Groups Hands On
 
+- 03 - IAM Policies
+
 ## Repository configuration
 Each submodule in this repository contains the code examples of the original course.
 
