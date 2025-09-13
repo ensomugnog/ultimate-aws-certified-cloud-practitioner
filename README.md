@@ -86,6 +86,8 @@ Full Practice Exam included + explanations | Learn Cloud Computing | Pass the AW
 
 05 - EC2 - Elastic Compute Cloud
 
+- 01 - AWS Budget Setup
+
 ## Repository configuration
 Each submodule in this repository contains the code examples of the original course.
 
