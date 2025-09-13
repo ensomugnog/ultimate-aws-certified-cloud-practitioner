@@ -82,6 +82,8 @@ Full Practice Exam included + explanations | Learn Cloud Computing | Pass the AW
 
 - 19 - IAM Summary
 
+- 20.2 - Identity and Access Management Quiz
+
 ## Repository configuration
 Each submodule in this repository contains the code examples of the original course.
 
