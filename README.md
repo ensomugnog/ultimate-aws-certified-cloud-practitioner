@@ -84,6 +84,8 @@ Full Practice Exam included + explanations | Learn Cloud Computing | Pass the AW
 
 - 20.2 - Identity and Access Management Quiz
 
+05 - EC2 - Elastic Compute Cloud
+
 ## Repository configuration
 Each submodule in this repository contains the code examples of the original course.
 
