@@ -88,6 +88,8 @@ Full Practice Exam included + explanations | Learn Cloud Computing | Pass the AW
 
 - 01 - AWS Budget Setup
 
+- 02 - EC2 Basics
+
 ## Repository configuration
 Each submodule in this repository contains the code examples of the original course.
 
