@@ -10,6 +10,8 @@ Full Practice Exam included + explanations | Learn Cloud Computing | Pass the AW
 
 - 01 - Course Introduction
 
+- 02 - Creating an AWS Account
+
 ## Repository configuration
 Each submodule in this repository contains the code examples of the original course.
 
