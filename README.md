@@ -68,6 +68,8 @@ Full Practice Exam included + explanations | Learn Cloud Computing | Pass the AW
 
 - 12 - AWS CloudShell
 
+- 13 - IAM Roles for AWS Services
+
 ## Repository configuration
 Each submodule in this repository contains the code examples of the original course.
 
