@@ -32,6 +32,8 @@ Full Practice Exam included + explanations | Learn Cloud Computing | Pass the AW
 
 - 04 - AWS Cloud Overview
 
+- 05 - Important AWS Console UI Update
+  
 ## Repository configuration
 Each submodule in this repository contains the code examples of the original course.
 
