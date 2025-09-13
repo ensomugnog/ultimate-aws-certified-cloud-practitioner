@@ -38,6 +38,8 @@ Full Practice Exam included + explanations | Learn Cloud Computing | Pass the AW
 
 - 07 - About the UI changes in the course
 
+- 08 - Shared Responsibility Model & AWS Acceptable Policy
+
 ## Repository configuration
 Each submodule in this repository contains the code examples of the original course.
 
