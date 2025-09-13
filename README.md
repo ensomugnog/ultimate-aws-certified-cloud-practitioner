@@ -52,6 +52,8 @@ Full Practice Exam included + explanations | Learn Cloud Computing | Pass the AW
 
 - 04 - IAM Policies Hands On
 
+- 05 - IAM MFA Overview
+
 ## Repository configuration
 Each submodule in this repository contains the code examples of the original course.
 
