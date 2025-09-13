@@ -60,6 +60,8 @@ Full Practice Exam included + explanations | Learn Cloud Computing | Pass the AW
 
 - 08 - AWS CLI Setup on Windows
 
+- 09 AWS CLI Setup on Mac
+
 ## Repository configuration
 Each submodule in this repository contains the code examples of the original course.
 
