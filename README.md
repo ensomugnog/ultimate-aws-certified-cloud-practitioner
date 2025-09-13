@@ -58,6 +58,8 @@ Full Practice Exam included + explanations | Learn Cloud Computing | Pass the AW
 
 - 07 - AWS Access Keys, CLI and SDK
 
+- 08 - AWS CLI Setup on Windows
+
 ## Repository configuration
 Each submodule in this repository contains the code examples of the original course.
 
