@@ -6,91 +6,91 @@ Full Practice Exam included + explanations | Learn Cloud Computing | Pass the AW
 
 ## Course content
 
-01 - Introduction
+- [x] 01 - Introduction
 
-- 01 - Course Introduction
+  - [x] 01 - Course Introduction
 
-- 02 - Creating an AWS Account
+  - [x] 02 - Creating an AWS Account
 
-- 03 - AWS Account Activation Troubleshooting
+  - [x] 03 - AWS Account Activation Troubleshooting
 
-- 04 - Important Message
+  - [x] 04 - Important Message
 
-- 05 - About your instructor
+  - [x] 05 - About your instructor
 
-02 - Code & Slides Download
+- [x] 02 - Code & Slides Download
 
-- 01 - Code & Slides Download
+  - [x] 01 - Code & Slides Download
 
-03 - What is Cloud Computing
+- [x] 03 - What is Cloud Computing
 
-- 01 - Traditional IT Overview
+  - [x] 01 - Traditional IT Overview
 
-- 02 - What is Cloud Computing
+  - [x] 02 - What is Cloud Computing
 
-- 03 - The Different Types of Cloud Computing
+  - [x] 03 - The Different Types of Cloud Computing
 
-- 04 - AWS Cloud Overview
+  - [x] 04 - AWS Cloud Overview
 
-- 05 - Important AWS Console UI Update
+  - [x] 05 - Important AWS Console UI Update
 
-- 06 - Tour of the Console & Services in AWS
+  - [x] 06 - Tour of the Console & Services in AWS
 
-- 07 - About the UI changes in the course
+  - [x] 07 - About the UI changes in the course
 
-- 08 - Shared Responsibility Model & AWS Acceptable Policy
+  - [x] 08 - Shared Responsibility Model & AWS Acceptable Policy
 
-- 09.1 - What is Cloud Computing Quiz
+  - [x] 09.1 - What is Cloud Computing Quiz
 
-04 - IAM - Identity and Access Management
+- [x] 04 - IAM - Identity and Access Management
 
-- 01 - IAM Introduction Users, Groups, Policies
+  - [x] 01 - IAM Introduction Users, Groups, Policies
 
-- 02 - IAM Users & Groups Hands On
+  - [x] 02 - IAM Users & Groups Hands On
 
-- 03 - IAM Policies
+  - [x] 03 - IAM Policies
 
-- 04 - IAM Policies Hands On
+  - [x] 04 - IAM Policies Hands On
 
-- 05 - IAM MFA Overview
+  - [x] 05 - IAM MFA Overview
 
-- 06 - IAM MFA Hands On
+  - [x] 06 - IAM MFA Hands On
 
-- 07 - AWS Access Keys, CLI and SDK
+  - [x] 07 - AWS Access Keys, CLI and SDK
 
-- 08 - AWS CLI Setup on Windows
+  - [x] 08 - AWS CLI Setup on Windows
 
-- 09 - AWS CLI Setup on Mac
+  - [x] 09 - AWS CLI Setup on Mac
 
-- 10 - AWS CLI Setup on Linux
+  - [x] 10 - AWS CLI Setup on Linux
 
-- 11 - AWS CLI Hands On
+  - [x] 11 - AWS CLI Hands On
 
-- 12 - AWS CloudShell
+  - [x] 12 - AWS CloudShell
 
-- 13 - IAM Roles for AWS Services
+  - [x] 13 - IAM Roles for AWS Services
 
-- 14 - IAM Roles Hands On
+  - [x] 14 - IAM Roles Hands On
 
-- 15 - IAM Security Tools
+  - [x] 15 - IAM Security Tools
 
-- 16 - IAM Security Tools Hands On
+  - [x] 16 - IAM Security Tools Hands On
 
-- 17 - IAM Best Practices
+  - [x] 17 - IAM Best Practices
 
-- 18 - Shared Responsibility Model for IAM
+  - [x] 18 - Shared Responsibility Model for IAM
 
-- 19 - IAM Summary
+  - [x] 19 - IAM Summary
 
-- 20.2 - Identity and Access Management Quiz
+- [x] 20.2 - Identity and Access Management Quiz
 
-05 - EC2 - Elastic Compute Cloud
+- [x] 05 - EC2 - Elastic Compute Cloud
 
-- 01 - AWS Budget Setup
+  - [x] 01 - AWS Budget Setup
 
-- 02 - EC2 Basics
+  - [x] 02 - EC2 Basics
 
-- 03 - Create an EC2 Instance with EC2 User Data to have a Website Hands On [ [uaccp-create-an-ec2-instance-with-ec2-user-data-to-have-a-website-hands-on](https://github.com/ensomugnog/uaccp-create-an-ec2-instance-with-ec2-user-data-to-have-a-website-hands-on) -> [5f79f2ee927ef5b732adec4f467aeb8a3c93f1b1](https://github.com/ensomugnog/uaccp-create-an-ec2-instance-with-ec2-user-data-to-have-a-website-hands-on/commit/5f79f2ee927ef5b732adec4f467aeb8a3c93f1b1) ]
+  - [x] 03 - Create an EC2 Instance with EC2 User Data to have a Website Hands On [ [uaccp-create-an-ec2-instance-with-ec2-user-data-to-have-a-website-hands-on](https://github.com/ensomugnog/uaccp-create-an-ec2-instance-with-ec2-user-data-to-have-a-website-hands-on) -> [5f79f2ee927ef5b732adec4f467aeb8a3c93f1b1](https://github.com/ensomugnog/uaccp-create-an-ec2-instance-with-ec2-user-data-to-have-a-website-hands-on/commit/5f79f2ee927ef5b732adec4f467aeb8a3c93f1b1) ]
 
 ## Repository configuration
 Each submodule in this repository contains the code examples of the original course.
