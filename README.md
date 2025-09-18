@@ -91,6 +91,8 @@ Full Practice Exam included + explanations | Learn Cloud Computing | Pass the AW
   - [x] 02 - EC2 Basics
 
   - [x] 03 - Create an EC2 Instance with EC2 User Data to have a Website Hands On [ [uaccp-create-an-ec2-instance-with-ec2-user-data-to-have-a-website-hands-on](https://github.com/ensomugnog/uaccp-create-an-ec2-instance-with-ec2-user-data-to-have-a-website-hands-on) -> [5f79f2ee927ef5b732adec4f467aeb8a3c93f1b1](https://github.com/ensomugnog/uaccp-create-an-ec2-instance-with-ec2-user-data-to-have-a-website-hands-on/commit/5f79f2ee927ef5b732adec4f467aeb8a3c93f1b1) ]
+  
+  - [x] 04 - EC2 Instance Types Basics
 
 ## Repository configuration
 Each submodule in this repository contains the code examples of the original course.
